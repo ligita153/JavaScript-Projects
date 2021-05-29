@@ -8,7 +8,7 @@ document.write("\"Don't dream your life,"
 document.write("<br>");//Inserting a line break
 var Summer = "July", Spring = "April", Autumn = "September", Winter = "December";//Assigning multiple variables in one statement
 var Summer = Summer.fontcolor("yellow"), Spring = Spring.fontcolor("green"), Autumn = Autumn.fontcolor("orange"), Winter = Winter.fontcolor("Blue");//Using the fontcolor method on str variables
-document.write("The months I enjoy the most are " + Summer +" and " + Spring);//Concatenating of two separate string variables
+document.write("The months I enjoy the most are " + Summer +" and " + Spring);//Concatenation of two separate string variables
 document.write("<br>");//Inserting a line break
 document.write(Autumn);//Displaying one of the variables using document.write method
 document.write("<br>");//Inserting a line break
